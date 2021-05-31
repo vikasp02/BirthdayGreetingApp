@@ -1,7 +1,7 @@
 # BirthdayGreetingApp
 A Birthday Greeting App is to wish your friends Happy Birthday with their name along with TextToSpeech added.
 
-**Demo**
+**Demo Video**
 
 https://user-images.githubusercontent.com/78472356/120150660-f328db00-c208-11eb-9ce3-5ed355428ec1.mp4
 
